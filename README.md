@@ -16,7 +16,6 @@ Left Arrow - Turn left
 
 Right Arrow - Turn right
 
-![Video] (https://github.com/jxeyy/Unity-Games/blob/main/Videos/Delivery%20Car%20Video.mp4)
 
 
 
