@@ -17,6 +17,9 @@ Left Arrow - Turn left
 Right Arrow - Turn right
 
 
+https://github.com/jxeyy/Unity-Games/assets/170799438/01c5c277-a2d1-4be0-89da-5e7d7f412ce9
+
+
 
 # 2. Snowboarder-Game
 _Second game made using online resources_
