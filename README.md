@@ -1,5 +1,5 @@
 # Delivery-Car-Game
-_First game made using online resources
+_First game made using online resources_
 
 Drive along the road to collect 6 purple packages and deliver them to the blue mailboxes around the neighbourhood. 
 
