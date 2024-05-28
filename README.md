@@ -24,9 +24,9 @@ https://github.com/jxeyy/Unity-Games/assets/170799438/01c5c277-a2d1-4be0-89da-5e
 # 2. Snowboarder-Game
 _Second game made using online resources_
 
-Snowboard on ice and reach the finishing point.
+Snowboard on ice and and collect as many jewels as you can before reaching the finishing point.
 
-Collect jewels along the way and click on the up arrow for a boost in speed! You can turn and do spins by clicking on the left or right arrows but the game restarts if you hit onto the ice!
+Click on the up arrow for a boost in speed! You can also turn and do spins by clicking on the left or right arrows but the game restarts if you hit onto the ice!
 
 ### Controls:
 
